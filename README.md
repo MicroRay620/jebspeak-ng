@@ -1,4 +1,8 @@
-# eSpeak NG Text-to-Speech
+# Reason For Joke
+Jeb is a mute member of the [ATL](https://discord.gg/linux) Discord. This is what he uses to speak and was done as a one-time joke.
+The punchline is the name and is endoursed by Jeb
+
+# jebSpeak NG Text-to-Speech
 
 - [Features](#features)
 - [Supported languages](docs/languages.md)
